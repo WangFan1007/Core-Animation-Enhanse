@@ -17,6 +17,7 @@
 		43915EF921AD3DB300C3FD99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43915EF721AD3DB300C3FD99 /* LaunchScreen.storyboard */; };
 		43B4FC4421AF8B2800ED3342 /* GroupAnimViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B4FC4321AF8B2800ED3342 /* GroupAnimViewController.swift */; };
 		43B9297921AE2F4F0023F4B3 /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B9297821AE2F4F0023F4B3 /* ClockView.swift */; };
+		43D2D96E21BE4B68009966B6 /* MapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D2D96D21BE4B68009966B6 /* MapController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		43915EFA21AD3DB300C3FD99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		43B4FC4321AF8B2800ED3342 /* GroupAnimViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupAnimViewController.swift; sourceTree = "<group>"; };
 		43B9297821AE2F4F0023F4B3 /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
+		43D2D96D21BE4B68009966B6 /* MapController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				4339948C21AE5ED2005B4590 /* LayersMasksView.swift */,
 				4339948E21AE68F8005B4590 /* PropertyAnimationViewController.swift */,
 				43B4FC4321AF8B2800ED3342 /* GroupAnimViewController.swift */,
+				43D2D96D21BE4B68009966B6 /* MapController.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				43D2D96E21BE4B68009966B6 /* MapController.swift in Sources */,
 				4339948D21AE5ED2005B4590 /* LayersMasksView.swift in Sources */,
 				43915EF121AD3DB200C3FD99 /* ViewController.swift in Sources */,
 				43B9297921AE2F4F0023F4B3 /* ClockView.swift in Sources */,
